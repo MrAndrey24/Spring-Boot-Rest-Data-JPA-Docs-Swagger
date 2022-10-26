@@ -12,7 +12,7 @@ import java.util.List;
 public class StudentController {
 
     /**
-     * URL SwaggerDocument: http://localhost:8080/swagger-ui.html
+     * URL SwaggerDocument: http://localhost:8180/swagger-ui.html
      *
      */
 
